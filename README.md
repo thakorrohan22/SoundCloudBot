@@ -16,7 +16,7 @@ SoundCloud, Bandcamp, YouTube with tags and artwork.
 Deploy To Heroku ( Easiest Way )
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/fridayuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/SoundCloudBot)
 
 Commands 🌸
 
